@@ -1,1 +1,1 @@
-The script reads Mon-Fri an excel file where data is added periodically. Whenever new data is added it will generate an automated email for the last data added. It stores the last processed row number.
+The script runs Mon-Fri in Windows Task Scheduler and reads an excel file where data is added periodically. Whenever new data is added it will generate an automated email for the last data added. It stores the last processed row number.
